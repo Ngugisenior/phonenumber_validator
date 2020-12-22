@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1607883865 source:d:\c\sun\phone_num.c\main.c
-	<stdio.h>
-
-1607966524 source:d:\c\sun\phone_num.c\val.c
-	<stdio.h>
-	<string.h>
-	<stdlib.h>
-
