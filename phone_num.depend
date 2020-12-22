@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607882968 source:/home/radiant/Documents/C_Projects/phone_num/main.c
+	<stdio.h>
+
+1607883177 source:/home/radiant/Documents/C_Projects/phone_num/val.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
